@@ -56,7 +56,6 @@ After running the application, speak your predefined password into the microphon
 
 
 ## Contact
-
-Your Name - [Rishabh Dhiman](rishabhdhiman10@gmail.com)
+[Rishabh Dhiman](rishabhdhiman10@gmail.com)
 
 ---
