@@ -23,21 +23,6 @@ Echo Lock is an innovative voice recognition-based security system designed to e
 - pyttsx3
 - (Optional) Microsoft Azure subscription for Cognitive Services
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/echo-lock.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd echo-lock
-   ```
-3. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ### Configuration
 
 - Download and place the Vosk model in the designated directory.
